@@ -6,3 +6,8 @@ h1 {
   color: navy;
   margin-left: 20px;
 }
+
+td {
+  padding: 15px;
+  spacing: 15px;
+}
